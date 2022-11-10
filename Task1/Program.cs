@@ -2,5 +2,5 @@
 Console.WriteLine("Random message 1");
 Console.WriteLine("Random message 2");
 Console.WriteLine("Random message 3");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Random message 4");
+Console.WriteLine("Random message 5");
